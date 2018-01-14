@@ -1351,13 +1351,51 @@ body {
 
 .item-inside-1 {
   background-image: url("../img/project-1.1.jpg");
-  background-position: 50% 100%;
-  background-size: 350%;
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 .item-inside-2 {
   background-image: url("../img/project-2.1.jpg");
-  background-position: 50% 100%;
-  background-size: 350%;
+  background-position: 50% 50%;
+  background-size: 150%;
+}
+
+.item-inside-3 {
+  background-image: url("../img/project-3.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+
+.item-inside-4 {
+  background-image: url("../img/project-4.1.jpg");
+  background-position: 50% 50%;
+  background-size: 150%;
+}
+
+
+.item-inside-5 {
+  background-image: url("../img/project-5.1.jpg");
+  background-position: 50% 50%;
+  background-size: 150%;
+}
+
+.item-inside-6 {
+  background-image: url("../img/project-6.1.jpg");
+  background-position: 50% 50%;
+  background-size: 150%;
+}
+
+.item-inside-7 {
+  background-image: url("../img/project-7.1.jpg");
+  background-position: 50% 50%;
+  background-size: 150%;
+}
+
+.item-inside-8 {
+  background-image: url("../img/project-8.1.jpg");
+  background-position: 50% 50%;
+  background-size: 150%;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
@@ -1367,7 +1405,7 @@ body {
 }
 @media (min-width: 40em) {
   .item-inside-1 {
-    background-size: 150%;
+    background-size: 100%;
   }
 }
 
