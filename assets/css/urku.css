@@ -1370,32 +1370,67 @@ body {
 .item-inside-4 {
   background-image: url("../img/project-4.1.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size:50%;
 }
 
 
 .item-inside-5 {
   background-image: url("../img/project-5.1.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size: 50%;
 }
 
 .item-inside-6 {
   background-image: url("../img/project-6.1.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size: 50%;
 }
 
 .item-inside-7 {
   background-image: url("../img/project-7.1.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size: 50%;
 }
 
 .item-inside-8 {
   background-image: url("../img/project-8.1.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size: 50%;
+}
+.item-inside-9 {
+  background-image: url("../img/project-9.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-10 {
+  background-image: url("../img/project-10.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-11 {
+  background-image: url("../img/project-11.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-12 {
+  background-image: url("../img/project-12.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-13 {
+  background-image: url("../img/project-13.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-14 {
+  background-image: url("../img/project-14.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
+}
+.item-inside-15 {
+  background-image: url("../img/project-15.1.jpg");
+  background-position: 50% 50%;
+  background-size: 50%;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
