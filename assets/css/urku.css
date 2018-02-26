@@ -1356,9 +1356,9 @@ body {
   background-repeat: no-repeat;
 }
 .item-inside-2 {
-  background-image: url("../img/project-2.1.jpg");
+  background-image: url("../img/project-2.jpg");
   background-position: 50% 50%;
-  background-size: 150%;
+  background-size: 50%;
 }
 
 .item-inside-3 {
